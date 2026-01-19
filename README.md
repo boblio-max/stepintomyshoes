@@ -12,7 +12,7 @@ Step Into My Shoes is an educational career exploration game where players exper
 
 ## Features
 
-### 🎮 Five Unique Career Worlds
+###  Five Unique Career Worlds
 
 1. **Doctor World** - Diagnose patients under time pressure
    - Triage incoming patients with various symptoms
@@ -44,7 +44,7 @@ Step Into My Shoes is an educational career exploration game where players exper
    - Think systematically to solve problems
    - *Skills taught: Spatial reasoning, problem-solving, systematic thinking*
 
-### 🤖 Dynamic AI Backstory System
+### Dynamic AI Backstory System
 
 Every playthrough features a unique, procedurally-generated backstory that immerses players in their chosen career. The system uses:
 - Randomized character names and personalities
@@ -52,7 +52,7 @@ Every playthrough features a unique, procedurally-generated backstory that immer
 - Varied mentors and workplace settings
 - Dynamic difficulty modifiers
 
-### 🎨 Modern UI/UX
+###  Modern UI/UX
 
 - Smooth animations and transitions
 - Particle effects for visual feedback
